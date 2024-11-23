@@ -91,7 +91,7 @@ body {
 
 .katakata {
     font-size: 50px;
-    color: #fff;
+    color:	#FF0000;
     font-family: customFonts;
 }
 
@@ -110,11 +110,12 @@ body {
 
 #div2 {
     height: 100vh;
-    background: #0496ff;
+    background: url('Gambar.png') no-repeat center center/cover;
     display: none;
     align-items: center;
     justify-content: center;
 }
+
 
 .buttons {
     text-align: center;
